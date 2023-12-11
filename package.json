@@ -1,0 +1,21 @@
+{
+  "name": "manuhb",
+  "displayName": "manuhb",
+  "description": "nice colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "manuhb",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manuhb-color-theme.json"
+      }
+    ]
+  }
+}
