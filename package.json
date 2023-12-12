@@ -1,14 +1,20 @@
 {
-  "name": "manuhb",
-  "displayName": "manuhb",
-  "description": "nice colors",
+  "name": "manukai",
+  "displayName": "manukai",
+  "description": "",
   "version": "0.0.1",
+  "galleryBanner": {
+    "color": "#6bffa6",
+    "theme": "dark"
+  },
+  "pricing": "Free",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
   ],
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
@@ -17,5 +23,9 @@
         "path": "./themes/manuhb-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manuhbdev/theme-manukai"
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "manuhb",
   "colors": {
-    "editor.background": "#263238",
+    "editor.background": "#022601",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb"
@@ -19,15 +19,13 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        // "foreground": "#ffeeee"
-        "foreground": "#ffffff"
+        "foreground": "#b4c9ed"
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        // "foreground": "#ffffff"
         "foreground": "#3369c6"
       }
     },
@@ -42,8 +40,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        // "foreground": "#C792EA"
-        "foreground": "#a533f0"
+        "foreground": "#b561ec"
       }
     },
     {
@@ -63,8 +60,6 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        // "foreground": "#89DDFF"
-        // "foreground": "#89ff9d"
         "foreground": "#6bffa6"
       }
     },
@@ -97,7 +92,6 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        // "foreground": "#f07178"
         "foreground": "#82AAFF"
       }
     },
@@ -105,7 +99,6 @@
       "name": "Other Variable, String Link",
       "scope": ["support.other.variable", "string.other.link"],
       "settings": {
-        // "foreground"#d471f0"78"
         "foreground": "#f07178"
       }
     },
@@ -122,9 +115,7 @@
         "keyword.other"
       ],
       "settings": {
-        // "foreground": "#F78C6C"
-        "foreground": "#6cf771bd"
-        // "foreground": "#ffffff"
+        "foreground": "#f880e8"
       }
     },
     {
@@ -139,8 +130,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        // "foreground": "#C3E88D"
-        "foreground": "#4de12fb6"
+        "foreground": "#747474dc"
       }
     },
     {
@@ -239,14 +229,14 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#b561ec"
       }
     },
     {
       "name": "CSS ID's",
       "scope": ["source.sass keyword.control"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#FFCB6B"
       }
     },
     {
