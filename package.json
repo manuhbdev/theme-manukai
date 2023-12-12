@@ -14,11 +14,12 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/theme-logo.png",
   "license": "MIT",
   "contributes": {
     "themes": [
       {
-        "label": "manuhb",
+        "label": "manukai",
         "uiTheme": "vs-dark",
         "path": "./themes/manuhb-color-theme.json"
       }
