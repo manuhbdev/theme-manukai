@@ -15,7 +15,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/theme-logo.png",
+  "icon": "images/icon.png",
   "license": "MIT",
   "contributes": {
     "themes": [
