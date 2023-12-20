@@ -12,6 +12,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
+        "foreground": "#8e368a",
         "foreground": "#546E7A"
       }
     },
@@ -129,7 +130,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#747474dc"
+        "foreground": "#eec6c6ee"
       }
     },
     {
